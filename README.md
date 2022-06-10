@@ -1,4 +1,4 @@
-# Demonstration of gradle bug (XY)
+# Demonstration of gradle bug [#20981](https://github.com/gradle/gradle/issues/20981)
 
 pom.xml contains a single quote, which is not escaped using `gradle init`.
 
